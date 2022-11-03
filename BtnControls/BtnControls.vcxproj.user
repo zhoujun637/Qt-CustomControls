@@ -11,4 +11,7 @@
   <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <QtLastBackgroundBuild>2022-11-03T07:42:08.9467364Z</QtLastBackgroundBuild>
   </PropertyGroup>
+  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <QtLastBackgroundBuild>2022-11-03T08:07:50.6528931Z</QtLastBackgroundBuild>
+  </PropertyGroup>
 </Project>
